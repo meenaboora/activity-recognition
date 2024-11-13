@@ -1,2 +1,2 @@
 # Aeriform-In-Action
-[Check out to learn about Aeriform-In-Action](https://surbhi-31.github.io/Aeriform-in-action/)
+[A novel dataset for Activity Recognition in Football Videos](https://meenaboora.github.io/activity-recognition/)
